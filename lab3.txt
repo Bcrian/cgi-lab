@@ -1,0 +1,16 @@
+Q1:
+By checking the "os.environ"
+Q2:
+when we add localhost:8080?query=myquery, the key="QUERY_STRING" and value = "query=myquery"
+Q3:
+"HTTP_USER_AGENT" contains the browser information
+Q4:
+All data stored to FieldStorage() and then got retrived by cgi 
+Q5:
+Set-Cookie: key=value
+Q6:
+"Cookie"
+Q7:
+I think it is mainly used to save time, to skip some processes
+Q8:
+https://github.com/Bcrian/cgi-lab
